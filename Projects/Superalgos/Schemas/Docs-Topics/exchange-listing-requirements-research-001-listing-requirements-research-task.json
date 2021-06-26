@@ -66,7 +66,7 @@
         },
         {
             "style": "Text",
-            "text": "If you're not familiar with the process of editing pages in the Docs and contributing the pages you create or edit, please go to the Getting Started Plugin Workspace and do the Contribute to Superalgos Tutorial."
+            "text": "If you're not familiar with the process of editing pages in the Docs and contributing the pages you create or edit, please go to the Getting Started Plugin Workspace and do the Beyond the Basics Tutorial."
         },
         {
             "style": "Subtitle",
@@ -115,8 +115,8 @@
         },
         {
             "style": "Important",
-            "text": "Do not submit a Pull Request until the research is complete! We don't want meaningless or incomplete reports. Only submit the research once you have gathered all the data required.",
-            "updated": 1618848886024
+            "text": "Do not submit a Pull Request until the research is complete! We don't want meaningless or incomplete reports. Only submit the research once you have gathered all the data required. Please, make sure you are submitting a quality report. We prefer quality over quantity, always!",
+            "updated": 1618999399703
         },
         {
             "style": "Title",
